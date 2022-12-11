@@ -1,5 +1,5 @@
 {
-  "name": "react--",
+  "name": "react",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -8,24 +8,9 @@
     "@mui/icons-material": "^5.10.16",
     "@mui/material": "^5.10.17",
     "@mui/styled-engine": "^5.10.16",
-    "@testing-library/jest-dom": "^5.16.5",
-    "@testing-library/react": "^13.4.0",
-    "@testing-library/user-event": "^14.4.3",
-    "emotion": "^11.0.0",
-    "framer-motion": "^7.6.19",
-    "node": "^19.2.0",
-    "node-sass": "^8.0.0",
-    "nodejs": "0.0.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "react-icons": "^4.7.1",
-    "react-redux": "^8.0.5",
-    "react-router-dom": "^6.4.5",
-    "react-scripts": "5.0.1",
-    "react-style": "^0.5.5",
-    "redux": "^4.2.0",
-    "redux-thunk": "^2.4.2",
-    "web-vitals": "^3.1.0"
+    "react-scripts": "5.0.1"
   },
   "scripts": {
     "start": "react-scripts start",
