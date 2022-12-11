@@ -1,0 +1,16 @@
+.miniNav {
+  padding: 10px 20px;
+  .womenStore {
+    font-weight: 500;
+    font-size: 17px;
+    margin-top: 10px;
+  }
+  .items {
+    color: silver;
+  }
+  .filter {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+}
