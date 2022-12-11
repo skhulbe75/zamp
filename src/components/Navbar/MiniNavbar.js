@@ -1,5 +1,4 @@
 import React from "react";
-import "./MiniNavbar.scss";
 import Button from "@mui/material/Button";
 import KeyboardArrowDownIcon from "@mui/icons-material/KeyboardArrowDown";
 import Filter from "./Filter";

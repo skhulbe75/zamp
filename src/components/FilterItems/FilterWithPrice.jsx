@@ -1,5 +1,4 @@
 import React, { useState } from "react";
-import "./Style.scss";
 import Checkbox from "@mui/material/Checkbox";
 import IconButton from "@mui/material/IconButton";
 import SearchIcon from "@mui/icons-material/Search";
